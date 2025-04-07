@@ -13,3 +13,4 @@ def mysum(x):
 # It also provides with a mathmatical relation between time and input
 
 # But time changes when implementation is changed
+

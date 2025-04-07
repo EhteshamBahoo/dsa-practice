@@ -1,0 +1,14 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual Environment
+venv/
+
+# VSCode & IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store

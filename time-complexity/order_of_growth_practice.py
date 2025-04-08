@@ -108,3 +108,19 @@ for i in range(0,len(L)//2):
     L[other] = temp
 
 print(L)
+
+
+#Probelem 11
+# Recursion
+
+def factorial(n):
+    if n == 1:
+        return 1
+    else: 
+        return n*factorial(n-1)
+    
+print(factorial(5))
+
+# 10 factorials so 10 functions called, so linear O(n)
+
+#depends on the functions call (search for more examples!)
